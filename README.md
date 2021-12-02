@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingKoval&hide=TeX&layout=compact&theme=dracula)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KingKoval&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KingKoval&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
