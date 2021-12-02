@@ -9,7 +9,7 @@ KingKoval/KingKoval is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Java]()
+![Java]("https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingKoval&hide=TeX&layout=compact&theme=gruvbox)
 
