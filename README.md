@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=KingKoval&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KingKoval.KingKoval&right_color=green)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KingKoval.KingKoval&right_color=orange)
