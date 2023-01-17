@@ -1,3 +1,5 @@
+<a href=#><img src="contributions.svg"></a>
+
 - 👋 Hi, I’m Bohdan Kovalchuk(@KingKoval)
 - 👀 I’m interested in Android Developing
 - 🌱 I’m currently learning Kotlin
