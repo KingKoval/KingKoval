@@ -2,9 +2,7 @@
 
 - 👋 Hi, I’m Bohdan Kovalchuk(@KingKoval)
 - 👀 I’m interested in Java Backend Developing
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Spring Framework
 
 <!---
 KingKoval/KingKoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
